@@ -1,13 +1,15 @@
-File báo cáo, Db, sơ đồ UC đều được đặt trong folder "documents"
-Các bước xây dựng để chạy Demo
-Chạy xampp đầu tiên.
-b1 : import Db vào MySlq, tên Db "cinema_booking_system" nằm trong folder "documents"
-b2 : Bỏ toàn bộ source code vào htdocs trong xampp
-b3 : Gõ tìm kiếm "http://localhost/movie/" để đến trang chủ
+Steps to run the Demo:
+First, run XAMPP.
+Import the database "cinema_booking_system" located in the "documents" folder into MySQL.
+Place the entire source code into the htdocs folder within XAMPP.
+Go to "http://localhost/movie/" in your web browser to access the home page.
 
-TK khách hàng:
-sđt : 0111111111
-mk : 111111
-Tk Admin:
-username: admin
-mk : 111111
+Customer Account:
+Phone number: 0111111111
+Password: 111111
+
+Admin Account:
+Username: admin
+Password: 111111
+
+The report file, database, and use case diagram are all located in the "documents" folder.
